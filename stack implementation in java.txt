@@ -1,0 +1,5 @@
+//stack implementation in java
+class stack{
+//Store elements of stack
+ private int arr [];
+
